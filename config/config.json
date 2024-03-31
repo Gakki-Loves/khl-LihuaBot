@@ -1,0 +1,7 @@
+{
+    "token": "1/MjY4MjI=/g+sqDmDcU1r8KUKN6K+wBQ==",
+    "verify_token": "webhook verify token",
+    "encrypt_token": "webhook encrypt token",
+    "webhook_port": 50000,
+    "using_ws": true
+  }
